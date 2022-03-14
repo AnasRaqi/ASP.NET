@@ -5,4 +5,4 @@
 To start with: 
 1. Install Visual Studio 2017 or above. 
 2. Install Azure Service Fabric SDK, more details about the installation steps here (https://rubenmamo.com/installing-and-configuring-azure-service-fabric-on-your-development-machine/)
-3. 
+3. Create ASP.NET core web API using Reliable Collections: 
